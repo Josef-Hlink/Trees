@@ -1,0 +1,10 @@
+# the usual suspects
+venv
+data
+plots
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# macOS custom icon
+Icon?
