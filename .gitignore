@@ -8,3 +8,6 @@ plots
 
 # macOS custom icon
 Icon?
+
+# API credentials
+credentials.json
