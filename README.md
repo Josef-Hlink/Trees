@@ -25,9 +25,15 @@ This is my data directory structure as of now, but it will definitely change.
 data
 ├── bomenkaart.tif
 ├── stikstofdepositie.gpkg
+├── co2
+│   ├── gemeentes.geojson
+│   ├── land.geojson
+│   └── provincies.geojson
 ├── csv
+│   ├── bevolkingsdichtheid.csv
 │   ├── bomenkaart.csv
-│   └── fsq_venues.csv
+│   ├── fsq_venues.csv
+│   └── industrie.csv
 └── shp
     ├── ADM0
     ├── provincies
