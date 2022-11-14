@@ -16,7 +16,10 @@ pip install -r requirements.txt
 
 Traffic: [NYC OpenData: _Automated Traffic Volume Counts_](https://data.cityofnewyork.us/Transportation/Automated-Traffic-Volume-Counts/7ym2-wayt)
 
-Trees: [NYC OpenData: _2015 Street Tree Census - Tree Data_](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh).
+Trees: [NYC OpenData: _2015 Street Tree Census - Tree Data_](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh)
+
+Roads: [NYC OpenData: _NYC Street Centerline (CSCL)_](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b)
+
 
 You will notice that some sources are not listed.
 This is due to us not being sure whether or not to actually use this data.
