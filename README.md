@@ -30,33 +30,12 @@ data
 ├── csv
 │   ├── 2015_Street_Tree_Census_-_Tree_Data.csv
 │   ├── Automated_Traffic_Volume_Counts.csv
-│   └── ny_traffic.csv
+│   └── sample_traffic.csv
 ├── shapefiles
-│   ├── ALTSTREETNAME_TBL.CPG
-│   ├── ALTSTREETNAME_TBL.dbf
-│   ├── ALTSTREETNAME_TBL.dbf.xml
-│   ├── StreetSegment.CPG
-│   ├── StreetSegment.dbf
-│   ├── StreetSegment.prj
-│   ├── StreetSegment.sbn
-│   ├── StreetSegment.sbx
-│   ├── StreetSegment.shp
-│   ├── StreetSegment.shp.xml
-│   └── StreetSegment.shx
+│   └── NYC Street Centerline (CSCL)
+│       ├── geo_export_f4098162-199c-4100-9c2a-6bc6e35f8734.dbf
+│       ├── geo_export_f4098162-199c-4100-9c2a-6bc6e35f8734.prj
+│       ├── geo_export_f4098162-199c-4100-9c2a-6bc6e35f8734.shp
+│       └── geo_export_f4098162-199c-4100-9c2a-6bc6e35f8734.shx
 └── streets.geojson
-```
-
-## Credentials (probably deprecated)
-
-Credentials for the Foursquare API should be stored in a file called "credentials.json" in the root directory.
-The file should contain the following:
-
-```json
-{
-    "foursquare": {
-        "client_id": "your-client-id",
-        "client_secret": "your-client-secret",
-        "authorization": "your-authorization"
-    }
-}
 ```
